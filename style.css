@@ -1,0 +1,15 @@
+html {
+    background-image: url('wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+#selection {
+    margin: auto;
+    width: min-content;
+}
